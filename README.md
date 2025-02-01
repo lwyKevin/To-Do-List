@@ -1,5 +1,5 @@
 # To-Do List
-Important files: main.py tasks.txt
+Important files: To-Do_List.py tasks.txt
 
 ## How to use
 Run main.py
